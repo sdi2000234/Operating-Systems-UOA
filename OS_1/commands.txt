@@ -1,0 +1,6 @@
+1 C1 SPAWN
+2 C2 SPAWN
+3 C1 Hello, C1!
+4 C2 Terminating soon.
+5 C1 TERMINATE
+6 C2 TERMINATE

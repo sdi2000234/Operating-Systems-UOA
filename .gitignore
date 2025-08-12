@@ -1,0 +1,11 @@
+/OS_2/fs.img
+/OS_2/11152002000234.zip
+.vscode/
+.idea/
+*.o
+*.a
+*.so
+*.out
+*.log
+.DS_Store
+Thumbs.db
